@@ -6,16 +6,20 @@
 
 ## Установка
 
-1. Установи BepInEx 5 для Risk of Rain 2.
-2. Скачай `SanaQuickItems.dll` со страницы Releases.
-3. Помести DLL в `BepInEx/plugins/SanaQuickItems/`.
-4. Запусти игру. Отдельная программа не требуется.
+Самый простой способ для Windows x64:
+
+1. Скачай `SanaQuickItems-4.0.0-Windows-OneClick.zip` из папки `packages`.
+2. Закрой игру и распакуй содержимое архива прямо в корень Risk of Rain 2 рядом с `Risk of Rain 2.exe`.
+3. Запусти игру через Steam и нажми `NumPad 8`. Отдельно запускать BepInEx не требуется.
+
+One-click архив уже содержит официальный BepInEx 5.4.23.5. Если BepInEx 5 установлен, можно скачать маленький обычный архив и положить `SanaQuickItems.dll` в `BepInEx/plugins/SanaQuickItems/`.
 
 ## Сборка из исходников
 
 ```powershell
 .\build.ps1
 .\test.ps1
+.\package-oneclick.ps1
 ```
 
 Для локальной установки после сборки закрой игру и выполни `.\build.ps1 -Install`.
