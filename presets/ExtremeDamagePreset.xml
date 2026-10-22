@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SavedBuild xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ЭКСТРИМ — миллионный урон</Name>
+  <Items>
+    <BuildEntry>
+      <Item>CritGlasses</Item>
+      <Count>10</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>CritDamage</Item>
+      <Count>1000000</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>Crowbar</Item>
+      <Count>1000000</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>BossDamageBonus</Item>
+      <Count>1000000</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>NearbyDamageBonus</Item>
+      <Count>1000000</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>Missile</Item>
+      <Count>1000</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>IceRing</Item>
+      <Count>1000</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>FireRing</Item>
+      <Count>1000</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>Syringe</Item>
+      <Count>30</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>BleedOnHit</Item>
+      <Count>10</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>ArmorReductionOnHit</Item>
+      <Count>1</Count>
+    </BuildEntry>
+    <BuildEntry>
+      <Item>PermanentDebuffOnHit</Item>
+      <Count>100</Count>
+    </BuildEntry>
+  </Items>
+</SavedBuild>
